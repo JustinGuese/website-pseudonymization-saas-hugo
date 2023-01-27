@@ -7,67 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Developed by DataFortress.cloud UG</copyright>
-    <lastBuildDate>Sun, 15 Jan 2023 15:40:24 +0600</lastBuildDate><atom:link href="https://pseudonymisieren.de/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Elements That You Can Use To Create A New Post On This Template.</title>
-      <link>https://pseudonymisieren.de/blog/elements/</link>
-      <pubDate>Sun, 15 Jan 2023 15:40:24 +0600</pubDate>
-      
-      <guid>https://pseudonymisieren.de/blog/elements/</guid>
-      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 14 Jan 2023 15:40:24 +0600</lastBuildDate><atom:link href="https://pseudonymisieren.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
       <link>https://pseudonymisieren.de/blog/post-1/</link>
       <pubDate>Sat, 14 Jan 2023 15:40:24 +0600</pubDate>
       
       <guid>https://pseudonymisieren.de/blog/post-1/</guid>
-      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available.</description>
-    </item>
-    
-    <item>
-      <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
-      <link>https://pseudonymisieren.de/blog/post-2/</link>
-      <pubDate>Sat, 14 Jan 2023 15:40:24 +0600</pubDate>
-      
-      <guid>https://pseudonymisieren.de/blog/post-2/</guid>
-      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available.</description>
-    </item>
-    
-    <item>
-      <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
-      <link>https://pseudonymisieren.de/blog/post-3/</link>
-      <pubDate>Sat, 14 Jan 2023 15:40:24 +0600</pubDate>
-      
-      <guid>https://pseudonymisieren.de/blog/post-3/</guid>
-      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available.</description>
-    </item>
-    
-    <item>
-      <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
-      <link>https://pseudonymisieren.de/blog/post-4/</link>
-      <pubDate>Sat, 14 Jan 2023 15:40:24 +0600</pubDate>
-      
-      <guid>https://pseudonymisieren.de/blog/post-4/</guid>
-      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available.</description>
-    </item>
-    
-    <item>
-      <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
-      <link>https://pseudonymisieren.de/blog/post-5/</link>
-      <pubDate>Sat, 14 Jan 2023 15:40:24 +0600</pubDate>
-      
-      <guid>https://pseudonymisieren.de/blog/post-5/</guid>
-      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available.</description>
-    </item>
-    
-    <item>
-      <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
-      <link>https://pseudonymisieren.de/blog/post-6/</link>
-      <pubDate>Sat, 14 Jan 2023 15:40:24 +0600</pubDate>
-      
-      <guid>https://pseudonymisieren.de/blog/post-6/</guid>
       <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available.</description>
     </item>
     
@@ -153,12 +99,13 @@
     </item>
     
     <item>
-      <title>Legal and Compliance</title>
-      <link>https://pseudonymisieren.de/legal/</link>
+      <title>Impressum</title>
+      <link>https://pseudonymisieren.de/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pseudonymisieren.de/legal/</guid>
-      <description>This section includes documents covering the legal terms that apply to various aspects of our operation and services.</description>
+      <guid>https://pseudonymisieren.de/impressum/</guid>
+      <description>DataFortress.cloud UG Georgenstraße 13 86152 Augsburg Germany DE345185498
+HRB 36456</description>
     </item>
     
     <item>
@@ -167,7 +114,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pseudonymisieren.de/privacy-policy/</guid>
-      <description>Application Processing You are most welcome to share our themes with your clients/friends, but please share our license with them so that they can be aware of our copyrights.</description>
+      <description>pseudonymisieren.de is a website and brand of DataFortress.cloud UG.
+We are very delighted that you have shown interest in our enterprise.</description>
     </item>
     
     <item>
@@ -176,7 +124,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pseudonymisieren.de/terms/</guid>
-      <description>The Use of the Information You cannot remove the copyright link to Gethugothemes without buying the license.</description>
+      <description>pseudonymization.de is a product of DataFortress.cloud UG
+General Terms and Conditions of DataFortress.</description>
     </item>
     
   </channel>

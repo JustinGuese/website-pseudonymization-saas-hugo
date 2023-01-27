@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://pseudonymisieren.de/es/english/</loc>
-    <lastmod>2023-01-15T15:40:24+06:00</lastmod>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://pseudonymisieren.de/es/english/blog/</loc>
-    <lastmod>2023-01-15T15:40:24+06:00</lastmod>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://pseudonymisieren.de/es/categories/</loc>
-    <lastmod>2023-01-15T15:40:24+06:00</lastmod>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,11 +21,11 @@
                 href="https://pseudonymisieren.de/es/categories/"
                 />
   </url><url>
-    <loc>https://pseudonymisieren.de/es/english/blog/elements/</loc>
-    <lastmod>2023-01-15T15:40:24+06:00</lastmod>
+    <loc>https://pseudonymisieren.de/es/english/blog/post-1/</loc>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://pseudonymisieren.de/es/tags/image/</loc>
-    <lastmod>2023-01-15T15:40:24+06:00</lastmod>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,7 +38,7 @@
                 />
   </url><url>
     <loc>https://pseudonymisieren.de/es/tags/photo/</loc>
-    <lastmod>2023-01-15T15:40:24+06:00</lastmod>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -51,7 +51,7 @@
                 />
   </url><url>
     <loc>https://pseudonymisieren.de/es/categories/photography/</loc>
-    <lastmod>2023-01-15T15:40:24+06:00</lastmod>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,7 +64,7 @@
                 />
   </url><url>
     <loc>https://pseudonymisieren.de/es/</loc>
-    <lastmod>2023-01-15T15:40:24+06:00</lastmod>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -76,8 +76,11 @@
                 href="https://pseudonymisieren.de/es/"
                 />
   </url><url>
+    <loc>https://pseudonymisieren.de/es/english/services/sensitive-data-scanning/</loc>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+  </url><url>
     <loc>https://pseudonymisieren.de/es/tags/</loc>
-    <lastmod>2023-01-15T15:40:24+06:00</lastmod>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -87,144 +90,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://pseudonymisieren.de/es/tags/"
-                />
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/tags/booth/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pseudonymisieren.de/tags/booth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://pseudonymisieren.de/es/tags/booth/"
-                />
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/english/blog/post-1/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/english/blog/post-2/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/english/blog/post-3/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/english/blog/post-4/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/english/blog/post-5/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/english/blog/post-6/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/tags/city/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pseudonymisieren.de/tags/city/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://pseudonymisieren.de/es/tags/city/"
-                />
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/categories/four-seasone/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pseudonymisieren.de/categories/four-seasone/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://pseudonymisieren.de/es/categories/four-seasone/"
-                />
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/tags/new/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pseudonymisieren.de/tags/new/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://pseudonymisieren.de/es/tags/new/"
-                />
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/categories/newyork-city/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pseudonymisieren.de/categories/newyork-city/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://pseudonymisieren.de/es/categories/newyork-city/"
-                />
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/categories/photobooth/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pseudonymisieren.de/categories/photobooth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://pseudonymisieren.de/es/categories/photobooth/"
-                />
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/english/services/sensitive-data-scanning/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/tags/seasone/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pseudonymisieren.de/tags/seasone/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://pseudonymisieren.de/es/tags/seasone/"
-                />
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/tags/video/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pseudonymisieren.de/tags/video/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://pseudonymisieren.de/es/tags/video/"
-                />
-  </url><url>
-    <loc>https://pseudonymisieren.de/es/categories/videography/</loc>
-    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pseudonymisieren.de/categories/videography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://pseudonymisieren.de/es/categories/videography/"
                 />
   </url><url>
     <loc>https://pseudonymisieren.de/es/english/services/on-premise-sensitive-data-scanner/</loc>
@@ -250,7 +115,7 @@
   </url><url>
     <loc>https://pseudonymisieren.de/es/english/how-it-works/</loc>
   </url><url>
-    <loc>https://pseudonymisieren.de/es/english/legal/</loc>
+    <loc>https://pseudonymisieren.de/es/english/impressum/</loc>
   </url><url>
     <loc>https://pseudonymisieren.de/es/english/privacy-policy/</loc>
   </url><url>
