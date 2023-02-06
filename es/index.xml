@@ -99,12 +99,30 @@
     
     <item>
       <title>Impressum</title>
-      <link>https://pseudonymisieren.de/es/english/impressum/</link>
+      <link>https://pseudonymisieren.de/es/english/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pseudonymisieren.de/es/english/impressum/</guid>
+      <guid>https://pseudonymisieren.de/es/english/imprint/</guid>
       <description>DataFortress.cloud UG Georgenstraße 13 86152 Augsburg Germany DE345185498
 HRB 36456</description>
+    </item>
+    
+    <item>
+      <title>Premium file format</title>
+      <link>https://pseudonymisieren.de/es/english/premium-file-format/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pseudonymisieren.de/es/english/premium-file-format/</guid>
+      <description>Uhoh! You just uploaded a non-simple file Your file is too complex for the free plan.</description>
+    </item>
+    
+    <item>
+      <title>Premium subscription</title>
+      <link>https://pseudonymisieren.de/es/english/premium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pseudonymisieren.de/es/english/premium/</guid>
+      <description></description>
     </item>
     
     <item>
