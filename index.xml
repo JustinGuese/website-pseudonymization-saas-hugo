@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pseudonymisieren</title>
+    <title>Daten Pseudonymisieren</title>
     <link>https://pseudonymisieren.de/</link>
-    <description>Recent content on Pseudonymisieren</description>
+    <description>Recent content on Daten Pseudonymisieren</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Developed by DataFortress.cloud UG</copyright>
+    <language>de-De</language>
+    <copyright>Entwickelt von DataFortress.cloud UG</copyright>
     <lastBuildDate>Sat, 14 Jan 2023 15:40:24 +0600</lastBuildDate><atom:link href="https://pseudonymisieren.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
+      <title>Scannen Sie Ihre Daten auf GDPR-Konformität mit unserer Webschnittstelle und API</title>
+      <link>https://pseudonymisieren.de/services/sensitive-data-scanning/</link>
+      <pubDate>Sat, 14 Jan 2023 15:40:24 +0600</pubDate>
+      
+      <guid>https://pseudonymisieren.de/services/sensitive-data-scanning/</guid>
+      <description>Erreichen Sie mühelos die GDPR-Konformität mit unserer Webschnittstelle und API-Scanning-Lösung Das Scannen Ihrer Daten im Hinblick auf die Einhaltung der DSGVO kann eine entmutigende Aufgabe sein, insbesondere wenn Sie mit den Vorschriften nicht vertraut sind.</description>
+    </item>
+    
+    <item>
+      <title>Top pseudonymisierungs-Tipps</title>
       <link>https://pseudonymisieren.de/blog/post-1/</link>
       <pubDate>Sat, 14 Jan 2023 15:40:24 +0600</pubDate>
       
@@ -18,66 +27,59 @@
     </item>
     
     <item>
-      <title>Scan your data for GDPR compliance with our web interface and API</title>
-      <link>https://pseudonymisieren.de/services/sensitive-data-scanning/</link>
-      <pubDate>Sat, 14 Jan 2023 15:40:24 +0600</pubDate>
-      
-      <guid>https://pseudonymisieren.de/services/sensitive-data-scanning/</guid>
-      <description>Effortlessly Achieve GDPR Compliance with Our Web Interface and API Scanning Solution Scanning your data for GDPR compliance can be a daunting task, especially if you&amp;rsquo;re not familiar with the regulations.</description>
-    </item>
-    
-    <item>
-      <title>On-premise GDPR compliance with our data landscape scanning solution</title>
+      <title>Vor-Ort-Konformität mit GDPR mit unserer Lösung zum Scannen von Datenlandschaften</title>
       <link>https://pseudonymisieren.de/services/on-premise-sensitive-data-scanner/</link>
       <pubDate>Fri, 13 Jan 2023 15:40:24 +0600</pubDate>
       
       <guid>https://pseudonymisieren.de/services/on-premise-sensitive-data-scanner/</guid>
-      <description>Achieving On-premise GDPR Compliance: Let Our Data Landscape Scanning Tool Help As businesses navigate the ever-evolving landscape of data privacy regulations, it&amp;rsquo;s increasingly important to ensure that your organization is fully compliant with GDPR.</description>
+      <description>Erreichen der GDPR-Compliance vor Ort: Lassen Sie sich von unserem Data Landscape Scanning Tool helfen As businesses navigate the ever-evolving landscape of data privacy regulations, it&amp;rsquo;s increasingly important to ensure that your organization is fully compliant with GDPR.</description>
     </item>
     
     <item>
-      <title>GDPR-compliant managed SQL instances hosted in Germany with built-in anonymization</title>
+      <title>GDPR-konforme verwaltete SQL-Instanzen, die in Deutschland gehostet werden, mit integrierter Anonymisierung</title>
       <link>https://pseudonymisieren.de/services/gdpr-sql-instances/</link>
       <pubDate>Thu, 12 Jan 2023 15:40:24 +0600</pubDate>
       
       <guid>https://pseudonymisieren.de/services/gdpr-sql-instances/</guid>
-      <description>Secure Your Data with GDPR-compliant Managed SQL Instances Hosted in Germany When it comes to data privacy and compliance, one of the most important considerations is the physical location of your data.</description>
+      <description>Sichern Sie Ihre Daten mit GDPR-konformen Managed SQL-Instanzen, die in Deutschland gehostet werden Wenn es um Datenschutz und Compliance geht, ist eine der wichtigsten Überlegungen der physische Standort Ihrer Daten.</description>
     </item>
     
     <item>
-      <title>Data compliance consultation</title>
+      <title>Beratung zur Einhaltung der Daten</title>
       <link>https://pseudonymisieren.de/services/data-compliance-consultation/</link>
       <pubDate>Wed, 11 Jan 2023 15:40:24 +0600</pubDate>
       
       <guid>https://pseudonymisieren.de/services/data-compliance-consultation/</guid>
-      <description>Ensure GDPR Compliance with Our Expert Consultation Services Ensuring compliance with the General Data Protection Regulation (GDPR) can be a daunting task for any organization, especially when it comes to sensitive data.</description>
+      <description>Sicherstellen der GDPR-Konformität mit unseren Expertenberatungsdiensten Die Einhaltung der Datenschutz-Grundverordnung (GDPR) zu gewährleisten, kann für jedes Unternehmen eine gewaltige Aufgabe sein, insbesondere wenn es um sensible Daten geht.</description>
     </item>
     
     <item>
-      <title>ETL data pipelines. Let us transform and combine your data.</title>
+      <title>ETL-Datenpipelines. Wir transformieren und kombinieren Ihre Daten.</title>
       <link>https://pseudonymisieren.de/services/data-pipelines/</link>
       <pubDate>Tue, 10 Jan 2023 15:40:24 +0600</pubDate>
       
       <guid>https://pseudonymisieren.de/services/data-pipelines/</guid>
-      <description>Streamline Your Data Management: Let Us Optimize Your ETL Pipelines Data management is a critical aspect of any business, and it&amp;rsquo;s only getting more complex as the volume of data grows.</description>
+      <description>Streamline Your Data Management: Optimieren Sie Ihre ETL-Pipelines mit uns Die Datenverwaltung ist ein entscheidender Aspekt jedes Unternehmens, und sie wird mit dem wachsenden Datenvolumen immer komplexer.</description>
     </item>
     
     <item>
-      <title>About Us</title>
-      <link>https://pseudonymisieren.de/about/</link>
+      <title>Bedingungen und Konditionen</title>
+      <link>https://pseudonymisieren.de/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pseudonymisieren.de/about/</guid>
-      <description></description>
+      <guid>https://pseudonymisieren.de/terms/</guid>
+      <description>pseudonymisieren.de ist ein Produkt der DataFortress.cloud UG
+Allgemeine Geschäftsbedingungen der DataFortress.</description>
     </item>
     
     <item>
-      <title>Contact Us</title>
-      <link>https://pseudonymisieren.de/contact/</link>
+      <title>Datenschutz und Politik</title>
+      <link>https://pseudonymisieren.de/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pseudonymisieren.de/contact/</guid>
-      <description></description>
+      <guid>https://pseudonymisieren.de/privacy-policy/</guid>
+      <description>pseudonymisieren.de ist eine Website und Marke der DataFortress.cloud UG.
+Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen.</description>
     </item>
     
     <item>
@@ -86,15 +88,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pseudonymisieren.de/faq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How It Works</title>
-      <link>https://pseudonymisieren.de/how-it-works/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pseudonymisieren.de/how-it-works/</guid>
       <description></description>
     </item>
     
@@ -109,16 +102,16 @@ HRB 36456</description>
     </item>
     
     <item>
-      <title>Premium file format</title>
-      <link>https://pseudonymisieren.de/premium-file-format/</link>
+      <title>Kontakt</title>
+      <link>https://pseudonymisieren.de/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pseudonymisieren.de/premium-file-format/</guid>
-      <description>Uhoh! You just uploaded a non-simple file Your file is too complex for the free plan.</description>
+      <guid>https://pseudonymisieren.de/contact/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Premium subscription</title>
+      <title>Premium-Abonnement</title>
       <link>https://pseudonymisieren.de/premium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -127,23 +120,30 @@ HRB 36456</description>
     </item>
     
     <item>
-      <title>Privacy &amp; Policy</title>
-      <link>https://pseudonymisieren.de/privacy-policy/</link>
+      <title>Premium-Dateiformat</title>
+      <link>https://pseudonymisieren.de/premium-file-format/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pseudonymisieren.de/privacy-policy/</guid>
-      <description>pseudonymisieren.de is a website and brand of DataFortress.cloud UG.
-We are very delighted that you have shown interest in our enterprise.</description>
+      <guid>https://pseudonymisieren.de/premium-file-format/</guid>
+      <description>Aha! Sie haben gerade eine nicht-einfache Datei hochgeladen Ihre Datei ist zu komplex für den kostenlosen Plan.</description>
     </item>
     
     <item>
-      <title>Terms &amp; Conditions</title>
-      <link>https://pseudonymisieren.de/terms/</link>
+      <title>Über uns</title>
+      <link>https://pseudonymisieren.de/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pseudonymisieren.de/terms/</guid>
-      <description>pseudonymization.de is a product of DataFortress.cloud UG
-General Terms and Conditions of DataFortress.</description>
+      <guid>https://pseudonymisieren.de/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wie es funktioniert</title>
+      <link>https://pseudonymisieren.de/how-it-works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pseudonymisieren.de/how-it-works/</guid>
+      <description></description>
     </item>
     
   </channel>

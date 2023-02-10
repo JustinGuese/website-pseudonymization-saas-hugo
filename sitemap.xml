@@ -1,18 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://pseudonymisieren.de/es/sitemap.xml</loc>
-    
-      <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://pseudonymisieren.de/en/sitemap.xml</loc>
-    
-      <lastmod>2023-01-14T15:40:24+06:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://pseudonymisieren.de/</loc>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://pseudonymisieren.de/blog/</loc>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://pseudonymisieren.de/categories/</loc>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://pseudonymisieren.de/tags/image/</loc>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://pseudonymisieren.de/tags/photo/</loc>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://pseudonymisieren.de/categories/photography/</loc>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://pseudonymisieren.de/services/sensitive-data-scanning/</loc>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://pseudonymisieren.de/tags/</loc>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://pseudonymisieren.de/blog/post-1/</loc>
+    <lastmod>2023-01-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://pseudonymisieren.de/services/on-premise-sensitive-data-scanner/</loc>
+    <lastmod>2023-01-13T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://pseudonymisieren.de/services/gdpr-sql-instances/</loc>
+    <lastmod>2023-01-12T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://pseudonymisieren.de/services/data-compliance-consultation/</loc>
+    <lastmod>2023-01-11T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://pseudonymisieren.de/services/</loc>
+    <lastmod>2023-01-11T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://pseudonymisieren.de/services/data-pipelines/</loc>
+    <lastmod>2023-01-10T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://pseudonymisieren.de/terms/</loc>
+  </url><url>
+    <loc>https://pseudonymisieren.de/privacy-policy/</loc>
+  </url><url>
+    <loc>https://pseudonymisieren.de/faq/</loc>
+  </url><url>
+    <loc>https://pseudonymisieren.de/imprint/</loc>
+  </url><url>
+    <loc>https://pseudonymisieren.de/contact/</loc>
+  </url><url>
+    <loc>https://pseudonymisieren.de/premium/</loc>
+  </url><url>
+    <loc>https://pseudonymisieren.de/premium-file-format/</loc>
+  </url><url>
+    <loc>https://pseudonymisieren.de/about/</loc>
+  </url><url>
+    <loc>https://pseudonymisieren.de/how-it-works/</loc>
+  </url>
+</urlset>
