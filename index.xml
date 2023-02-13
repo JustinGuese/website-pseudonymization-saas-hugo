@@ -111,6 +111,26 @@ HRB 36456</description>
     </item>
     
     <item>
+      <title>Plus Subscription success page</title>
+      <link>https://pseudonymisieren.de/subscription-plus-success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pseudonymisieren.de/subscription-plus-success/</guid>
+      <description>Juhu! Sie haben erfolgreich den Plus Plan abonniert!
+Damit sind Sie in der Lage, die erweiterten Scanfunktionen zu nutzen.</description>
+    </item>
+    
+    <item>
+      <title>Premium Subscription success page</title>
+      <link>https://pseudonymisieren.de/subscription-premium-success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pseudonymisieren.de/subscription-premium-success/</guid>
+      <description>Yay! You successfully subscribed to the Premium plan!
+With this you are able to use the advanced scanning features.</description>
+    </item>
+    
+    <item>
       <title>Premium-Abonnement</title>
       <link>https://pseudonymisieren.de/premium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
