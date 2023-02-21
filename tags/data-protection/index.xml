@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Protection on Daten Pseudonymisieren</title>
+    <link>https://pseudonymisieren.de/tags/data-protection/</link>
+    <description>Recent content in Data Protection on Daten Pseudonymisieren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-De</language>
+    <copyright>Entwickelt von DataFortress.cloud UG</copyright>
+    <lastBuildDate>Tue, 14 Feb 2023 15:40:24 +0600</lastBuildDate><atom:link href="https://pseudonymisieren.de/tags/data-protection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pseudonymisierung 101: Alles, was Sie wissen müssen.</title>
+      <link>https://pseudonymisieren.de/what-is-data-pseudonymization/</link>
+      <pubDate>Tue, 14 Feb 2023 15:40:24 +0600</pubDate>
+      
+      <guid>https://pseudonymisieren.de/what-is-data-pseudonymization/</guid>
+      <description>Entmystifizierung der Pseudonymisierung: Alles, was Sie wissen müssen In der Welt des Datenschutzes und der Datensicherheit ist es wichtig, die verschiedenen Techniken zum Schutz sensibler Informationen zu verstehen.</description>
+    </item>
+    
+  </channel>
+</rss>
